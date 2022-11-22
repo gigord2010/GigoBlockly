@@ -1,0 +1,24 @@
+{
+    "name": "GigoBlockly",
+    "version": "0.0.0",
+    "description": "智高自製方塊",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*"
+    },
+    "files": [
+        "README.md",
+        
+        "main.ts"
+    ],
+    "testFiles": [
+    
+    ],
+    "public": true,
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj",
+    "license": "MIT"
+}
